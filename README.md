@@ -1,1 +1,0 @@
-# ClyptixAI Frontend Redesign\n\nModern redesign of the ClyptixAI frontend with brand colors and improved layout.

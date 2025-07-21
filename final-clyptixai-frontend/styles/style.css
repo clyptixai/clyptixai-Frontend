@@ -1,0 +1,36 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: white;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+header {
+  padding: 2rem;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.generator {
+  margin-top: 3rem;
+}
+input[type="text"] {
+  padding: 0.8rem;
+  width: 300px;
+  border: none;
+  border-radius: 5px;
+}
+button {
+  padding: 0.8rem 1.5rem;
+  margin-left: 1rem;
+  background-color: #00aaff;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+footer {
+  margin-top: 5rem;
+  font-size: 0.9rem;
+  opacity: 0.6;
+}
